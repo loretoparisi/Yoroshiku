@@ -1,0 +1,36 @@
+{
+  "name": "yoroshiku",
+  "description": "yoroshiku converts Japanese to Hiragana, Katakana or Romaji. It supports furigana and okurigana.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/loretoparisi/yoroshiku/wiki",
+  "author": {
+    "name": "Loreto Parisi",
+    "email": "loretoparisi@gmail.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:loretoparisi/yoroshiku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/loretoparisi/yoroshiku/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/loretoparisi/yoroshiku/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/index",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "keywords": [],
+  "dependencies": {
+    "async": "^2.0.1",
+    "doublearray": "0.0.2",
+    "zlibjs": "^0.3.1"
+  }
+}
